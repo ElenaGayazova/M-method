@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Программы\M-method\M-method\bin\Debug\M-method.exe.config
+C:\Users\admin\Desktop\Программы\M-method\M-method\bin\Debug\M-method.exe
+C:\Users\admin\Desktop\Программы\M-method\M-method\bin\Debug\M-method.pdb
+C:\Users\admin\Desktop\Программы\M-method\M-method\obj\Debug\M-method.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Программы\M-method\M-method\obj\Debug\M_method.Properties.Resources.resources
+C:\Users\admin\Desktop\Программы\M-method\M-method\obj\Debug\M-method.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Программы\M-method\M-method\obj\Debug\M-method.exe
+C:\Users\admin\Desktop\Программы\M-method\M-method\obj\Debug\M-method.pdb
+C:\Users\admin\Desktop\Программы\M-method\M-method\obj\Debug\SimplexMethod.Form1.resources
